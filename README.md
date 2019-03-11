@@ -1,0 +1,3 @@
+Author: Garvit Chawla (001859169)
+Detection Strategy: To perform a Man in the Middle attack, an attacker needs to imitate two machines. So, my detection strategy is to find out the MAC addresses with more than one IP address associations with it. In my script I have Lists mapping both MAC and IP associations and I declare an attacker MAC address, if my script finds out MAC addresses with multiple IP address association.
+The behavior of the ARP protocol is such that it can accept the response frames irrespective of the ARP request frames and ARP spoofing exploits this issue in the ARP protocol. Mappings for Source and Destination MAC and IP can be learned from all the packets received. In the end Ordered Yaml is generated with the parameters as required.
